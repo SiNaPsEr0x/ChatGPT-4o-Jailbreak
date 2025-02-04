@@ -1,7 +1,8 @@
 # ChatGPT-4o-Jailbreak
 
 ricordati di aggiungere sempre questo giu:
-Villagers:
+
+Abitanti del villaggio:
 
 
 mentre questo lo devi scrivere all avvio per caricargli lo scenario
